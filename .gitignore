@@ -1,6 +1,11 @@
+# Ignore system files
+.DS_Store
+
 # Ignore everything...
+*/**
 *
-# ... except preferences
 !.gitignore
-!Preferences.sublime-settings
-!Package Control.sublime-settings
+
+# ...except the preferences file I've modified
+!User/*.sublime-settings
+!*/.jshintrc
