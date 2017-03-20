@@ -1,7 +1,43 @@
 {
 	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
-		"Package Control"
+		"A File Icon",
+		"All Autocomplete",
+		"AngularJS",
+		"Babel",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
+		"Boxy Theme Addon - Mono File Icons",
+		"BracketHighlighter",
+		"Clickable URLs",
+		"Color Highlighter",
+		"DistractionFreeWindow",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"FileBrowser",
+		"Highlight Whitespaces",
+		"HTML-CSS-JS Prettify",
+		"Icon Fonts",
+		"jQuery",
+		"Monokai JSON+",
+		"Package Control",
+		"PowerShell",
+		"Pretty JSON",
+		"React ES6 Snippets",
+		"Sass",
+		"SideBarEnhancements",
+		"Skins",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SVN",
+		"Todo",
+		"TrailingSpaces",
+		"TypeScript",
+		"Vuejs Complete Package"
 	]
 }
