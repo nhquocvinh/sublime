@@ -8,4 +8,5 @@
 
 # ...except the preferences file I've modified
 !User/*.sublime-settings
+!User/*.sublime-snippet
 !*/.jshintrc
